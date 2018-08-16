@@ -9,7 +9,7 @@ body {
 	height: 100vh;
 	display: grid;
 	grid-template-columns: 1fr;
-	grid-template-rows: 14vmin 1fr 50px;
+	grid-template-rows: 20vmin 1fr 50px;
 
 }
 
@@ -18,12 +18,14 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-}
-header img{
+ }
+
+header img {
 	width: 40vmin;
 	margin-left: 20px;
 }
-header a{
+
+header a {
 	color: #459183;
 	font-size: 7vmin;
 	margin-right: 20px;
